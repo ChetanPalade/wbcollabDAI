@@ -26,12 +26,7 @@ class Container extends React.Component
         })
     }
 
-    changeClear(params){
-        this.setState){
-           eraser:params.taeget.null
-        })
-    }
-
+   
     render() {
 
         return (
@@ -58,10 +53,6 @@ class Container extends React.Component
                         <input type="eraser" value={this.state.earser} onChange={this.changeClear.bind(this)} />
                     </div>
 
-                </div>
-
-                <div class="board-container">
-                    <Board color={this.state.color} size={this.state.size}></Board>
                 </div>
             </div>
         )
