@@ -48,10 +48,6 @@ class Container extends React.Component
                             <option> 30 </option>
                         </select>
                     </div>
-                    <div className="color-picker-container">
-                        Eraser : &nbsp; 
-                        <input type="eraser" value={this.state.earser} onChange={this.changeClear.bind(this)} />
-                    </div>
 
                 </div>
             </div>
