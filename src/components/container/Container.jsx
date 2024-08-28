@@ -26,7 +26,6 @@ class Container extends React.Component
         })
     }
 
-   
     render() {
 
         return (
@@ -48,7 +47,11 @@ class Container extends React.Component
                             <option> 30 </option>
                         </select>
                     </div>
+                   
+                </div>
 
+                <div class="board-container">
+                    <Board color={this.state.color} size={this.state.size}></Board>
                 </div>
             </div>
         )
