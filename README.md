@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Loom Video Recording:
+[ https://www.loom.com/share/fda2cd7eda9e4f0089b3887b8b960e18?sid=2b592542-e37c-4d50-a3e1-43ec687047c2 ]
+
+# ScreenShots:
+![Screenshot (806)](https://github.com/user-attachments/assets/ae24c37a-9133-48db-b482-8756056565a8)
+![Screenshot (808)](https://github.com/user-attachments/assets/6b02dec3-3b53-464a-8a29-51a5f957cd89)
+![Screenshot (807)](https://github.com/user-attachments/assets/c778a74e-eeee-43e7-9633-e3e8357014aa)
+![Screenshot (806)](https://github.com/user-attachments/assets/f814edf8-addf-4e68-8cd8-1cd41ce99242)
+![Screenshot (809)](https://github.com/user-attachments/assets/d2416d84-1923-4849-95b7-3bed4b7aeed4)
+![Screenshot (808)](https://github.com/user-attachments/assets/9f10a457-0657-4f81-9998-5e5d241d33be)
+![Screenshot (809)](https://github.com/user-attachments/assets/89bd2a7b-e0d6-4e9f-a262-e929c714aaae)
+![Screenshot (800)](https://github.com/user-attachments/assets/9396b446-e0a4-4fb3-8e2c-cf923c442def)
+![Screenshot (799)](https://github.com/user-attachments/assets/759763de-d5b7-4854-8617-7bb7fb21161e)
+
+# Getting Started with Create React App![Screenshot (807)](https://github.com/user-attachments/assets/ab0f51dd-2d8b-4cb5-abdb-8ecafb0b261a)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
